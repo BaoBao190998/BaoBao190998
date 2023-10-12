@@ -1,3 +1,9 @@
+### Hi, I'm Bao Bao 👏 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - [Bảo IT] [website] = Software Engineer + Saler 
+I
+- 💥 Passion in something... (secret)
+- 💪 2023 Goals: Learning many things in C#
+- ⭐️ Reading, listening, walking, running... and blade wind
+### :zap: GitHub Stats
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/baohy190998/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@baoluyen7549/featured) 
